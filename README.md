@@ -1,4 +1,4 @@
-<h1 align="center">🍔🍟Recipes App 🥤🍺</h1>  </p>
+<h1 align="center">🍔🍟 Recipes App 🥤🍺</h1>  </p>
 
 
 ## Desenvolvido por
